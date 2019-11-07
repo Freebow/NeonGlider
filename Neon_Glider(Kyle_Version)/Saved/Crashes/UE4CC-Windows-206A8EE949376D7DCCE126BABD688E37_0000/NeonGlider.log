@@ -1,0 +1,1626 @@
+﻿Log file open, 10/15/19 12:35:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: NeonGlider
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.430577
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.286s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-1650 v3 @ 3.50GHz, GPU: NVIDIA GeForce GTX 980 Ti
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.024s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.15-11.35.42:310][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.15-11.35.42:310][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.15-11.35.42:310][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/University/Year 2/Games Development/NeonGlider/Saved/Config/Windows/Engine.ini]
+[2019.10.15-11.35.42:310][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.15-11.35.42:310][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/University/Year 2/Games Development/NeonGlider/Saved/Config/Windows/Engine.ini]
+[2019.10.15-11.35.42:310][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/University/Year 2/Games Development/NeonGlider/Saved/Config/Windows/Engine.ini]
+[2019.10.15-11.35.42:311][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.15-11.35.42:311][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.15-11.35.42:311][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.15-11.35.42:311][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.15-11.35.42:311][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.15-11.35.42:311][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.15-11.35.42:311][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.15-11.35.42:311][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.15-11.35.42:311][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.15-11.35.42:311][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.15-11.35.42:311][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.15-11.35.42:311][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.15-11.35.42:311][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.15-11.35.42:311][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/University/Year 2/Games Development/NeonGlider/Saved/Config/Windows/Engine.ini]
+[2019.10.15-11.35.42:311][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.15-11.35.42:311][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.15-11.35.42:311][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.15-11.35.42:311][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.15-11.35.42:311][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.15-11.35.42:311][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.15-11.35.42:311][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.10.15-11.35.42:311][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.15-11.35.42:311][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.15-11.35.42:311][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.10.15-11.35.42:311][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.15-11.35.42:311][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.15-11.35.42:312][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.15-11.35.42:312][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.15-11.35.42:312][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/University/Year 2/Games Development/NeonGlider/Saved/Config/Windows/Engine.ini]
+[2019.10.15-11.35.42:312][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/University/Year 2/Games Development/NeonGlider/Saved/Config/Windows/Engine.ini]
+[2019.10.15-11.35.42:324][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/University/Year 2/Games Development/NeonGlider/Saved/Config/Windows/Scalability.ini]
+[2019.10.15-11.35.42:324][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.15-11.35.42:324][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.15-11.35.42:324][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/University/Year 2/Games Development/NeonGlider/Saved/Config/Windows/Scalability.ini]
+[2019.10.15-11.35.42:324][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.15-11.35.42:324][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/University/Year 2/Games Development/NeonGlider/Saved/Config/Windows/Scalability.ini]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/University/Year 2/Games Development/NeonGlider/Saved/Config/Windows/Scalability.ini]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.15-11.35.42:325][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/University/Year 2/Games Development/NeonGlider/Saved/Config/Windows/Scalability.ini]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/University/Year 2/Games Development/NeonGlider/Saved/Config/Windows/Scalability.ini]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.15-11.35.42:326][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.15-11.35.42:327][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.15-11.35.42:327][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.15-11.35.42:327][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.15-11.35.42:327][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.15-11.35.42:327][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.15-11.35.42:327][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.15-11.35.42:327][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.15-11.35.42:327][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.15-11.35.42:327][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.15-11.35.42:327][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/University/Year 2/Games Development/NeonGlider/Saved/Config/Windows/Scalability.ini]
+[2019.10.15-11.35.42:327][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.15-11.35.42:327][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.15-11.35.42:327][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.15-11.35.42:327][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.15-11.35.42:403][  0]LogHAL: Display: Platform has ~ 32 GB [34271838208 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.15-11.35.42:403][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.10.15-11.35.42:403][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.15-11.35.42:403][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/University/Year 2/Games Development/NeonGlider/Saved/Config/Windows/Scalability.ini]
+[2019.10.15-11.35.42:403][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.15-11.35.42:403][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.15-11.35.42:403][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/University/Year 2/Games Development/NeonGlider/Saved/Config/Windows/Scalability.ini]
+[2019.10.15-11.35.42:403][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.15-11.35.42:403][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/University/Year 2/Games Development/NeonGlider/Saved/Config/Windows/Scalability.ini]
+[2019.10.15-11.35.42:403][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.15-11.35.42:403][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.15-11.35.42:403][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.15-11.35.42:403][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.15-11.35.42:403][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.15-11.35.42:403][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.15-11.35.42:403][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.15-11.35.42:403][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.15-11.35.42:403][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.15-11.35.42:403][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.15-11.35.42:403][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.15-11.35.42:403][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/University/Year 2/Games Development/NeonGlider/Saved/Config/Windows/Scalability.ini]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.15-11.35.42:404][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/University/Year 2/Games Development/NeonGlider/Saved/Config/Windows/Scalability.ini]
+[2019.10.15-11.35.42:405][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/University/Year 2/Games Development/NeonGlider/Saved/Config/Windows/Scalability.ini]
+[2019.10.15-11.35.42:405][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/University/Year 2/Games Development/NeonGlider/Saved/Config/Windows/Scalability.ini]
+[2019.10.15-11.35.42:405][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.15-11.35.42:405][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.15-11.35.42:406][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.15-11.35.42:406][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/University/Year 2/Games Development/NeonGlider/Saved/Config/Windows/Engine.ini]
+[2019.10.15-11.35.42:406][  0]LogInit: Computer: TU45327
+[2019.10.15-11.35.42:406][  0]LogInit: User: V8076248
+[2019.10.15-11.35.42:406][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.10.15-11.35.42:406][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.15-11.35.42:407][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.10.15-11.35.42:407][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.15-11.35.42:407][  0]LogMemory: Process Physical Memory: 105.84 MB used, 105.85 MB peak
+[2019.10.15-11.35.42:407][  0]LogMemory: Process Virtual Memory: 94.59 MB used, 94.59 MB peak
+[2019.10.15-11.35.42:407][  0]LogMemory: Physical Memory: 5768.40 MB used,  26915.77 MB free, 32684.17 MB total
+[2019.10.15-11.35.42:407][  0]LogMemory: Virtual Memory: 4671.99 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.10.15-11.35.42:442][  0]LogInit: Using OS detected language (en-GB).
+[2019.10.15-11.35.42:442][  0]LogInit: Using OS detected locale (en-GB).
+[2019.10.15-11.35.42:443][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.10.15-11.35.42:915][  0]LogStreaming: Display: Took  0.473s to InitEngineTextLocalization.
+[2019.10.15-11.35.42:916][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.15-11.35.42:983][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.15-11.35.42:983][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.15-11.35.43:216][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.15-11.35.43:216][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.15-11.35.43:265][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980 Ti' (Feature Level 11_0)
+[2019.10.15-11.35.43:265][  0]LogD3D11RHI:       6097/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.10.15-11.35.43:267][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.15-11.35.43:267][  0]LogD3D11RHI:       0/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.15-11.35.43:267][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.15-11.35.43:272][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.15-11.35.43:272][  0]LogD3D11RHI:     GPU DeviceId: 0x17c8 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.15-11.35.43:272][  0]LogWindows: EnumDisplayDevices:
+[2019.10.15-11.35.43:272][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980 Ti' (P:1 D:1)
+[2019.10.15-11.35.43:273][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:1)
+[2019.10.15-11.35.43:273][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2019.10.15-11.35.43:273][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2019.10.15-11.35.43:273][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.15-11.35.43:273][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980 Ti
+[2019.10.15-11.35.43:273][  0]LogD3D11RHI:   Driver Version: 391.35 (internal:23.21.13.9135, unified:391.35)
+[2019.10.15-11.35.43:273][  0]LogD3D11RHI:      Driver Date: 3-23-2018
+[2019.10.15-11.35.43:273][  0]LogRHI: Texture pool is 4268 MB (70% of 6097 MB)
+[2019.10.15-11.35.43:305][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.15-11.35.43:322][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.10.15-11.35.43:846][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.10.15-11.35.43:859][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.10.15-11.35.43:871][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.10.15-11.35.43:884][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.10.15-11.35.43:897][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.10.15-11.35.43:909][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.10.15-11.35.43:922][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.10.15-11.35.43:941][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.10.15-11.35.43:949][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.10.15-11.35.44:060][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.15-11.35.44:060][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.15-11.35.44:060][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.15-11.35.44:060][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.15-11.35.44:060][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.15-11.35.44:060][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.15-11.35.44:060][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.15-11.35.44:060][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.15-11.35.44:060][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.15-11.35.44:060][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.15-11.35.44:060][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.15-11.35.44:060][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.15-11.35.44:060][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.15-11.35.44:060][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.15-11.35.44:060][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.15-11.35.44:060][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.15-11.35.44:060][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.15-11.35.44:060][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.15-11.35.44:062][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.10.15-11.35.44:161][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.10.15-11.35.44:161][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.10.15-11.35.44:190][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.10.15-11.35.44:190][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.10.15-11.35.44:202][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.10.15-11.35.44:214][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.10.15-11.35.44:226][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.10.15-11.35.44:238][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.10.15-11.35.44:282][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.10.15-11.35.44:282][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.10.15-11.35.44:283][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.15-11.35.44:331][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (F:/University/Year 2/Games Development/NeonGlider/Intermediate/Shaders/WorkingDirectory/584/).
+[2019.10.15-11.35.44:331][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/V8076248/AppData/Local/Temp/UnrealShaderWorkingDir/21C3630C45414811FC2FA28A6436C699/'.
+[2019.10.15-11.35.44:333][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.15-11.35.44:333][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.15-11.35.44:333][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.15-11.35.44:945][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.15-11.35.45:038][  0]LogDerivedDataCache: Loaded boot cache 0.09s 86MB C:/Users/V8076248/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.10.15-11.35.45:039][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/V8076248/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.10.15-11.35.45:039][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/University/Year 2/Games Development/NeonGlider/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.15-11.35.45:039][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.15-11.35.45:039][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/University/Year 2/Games Development/NeonGlider/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.15-11.35.45:039][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.15-11.35.45:060][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.15-11.35.45:060][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.15-11.35.45:060][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.15-11.35.45:072][  0]LogDerivedDataCache: Using Local data cache path C:/Users/V8076248/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.15-11.35.45:072][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.15-11.35.45:072][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.15-11.35.45:095][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.15-11.35.45:096][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.15-11.35.45:096][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.15-11.35.45:199][  0]LogAssetRegistry: FAssetRegistry took 0.0410 seconds to start up
+[2019.10.15-11.35.45:547][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.15-11.35.45:731][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.10.15-11.35.45:734][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.10.15-11.35.45:734][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.15-11.35.45:734][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.15-11.35.45:734][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.10.15-11.35.45:754][  0]LogNetVersion: NeonGlider 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1337179755)
+[2019.10.15-11.35.46:813][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.619683 seconds
+[2019.10.15-11.35.46:819][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.10.15-11.35.46:819][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.10.15-11.35.46:819][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.15-11.35.47:730][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.15-11.35.47:744][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.15-11.35.48:571][  0]SourceControl: Source control is disabled
+[2019.10.15-11.35.48:571][  0]SourceControl: Source control is disabled
+[2019.10.15-11.35.48:572][  0]SourceControl: Source control is disabled
+[2019.10.15-11.35.48:573][  0]SourceControl: Source control is disabled
+[2019.10.15-11.35.48:755][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.15-11.35.48:891][  0]LogOcInput: OculusInput pre-init called
+[2019.10.15-11.35.49:076][  0]LogEngine: Initializing Engine...
+[2019.10.15-11.35.49:077][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.15-11.35.49:078][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.10.15-11.35.49:078][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.10.15-11.35.49:078][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.10.15-11.35.49:078][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.10.15-11.35.49:428][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.15-11.35.49:439][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.15-11.35.49:482][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.15-11.35.49:544][  0]LogInit: FAudioDevice initialized.
+[2019.10.15-11.35.49:544][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.15-11.35.49:651][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB C:/Users/V8076248/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.10.15-11.35.49:673][  0]LogInit: Texture streaming: Enabled
+[2019.10.15-11.35.49:690][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.15-11.35.49:722][  0]LogInit: Transaction tracking system initialized
+[2019.10.15-11.35.49:753][  0]BlueprintLog: New page: Editor Load
+[2019.10.15-11.35.49:842][  0]LocalizationService: Localization service is disabled
+[2019.10.15-11.35.50:403][  0]LogFileCache: Scanning file cache for directory 'F:/University/Year 2/Games Development/NeonGlider/Content/' took 0.02s
+[2019.10.15-11.35.50:403][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.15-11.35.50:403][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.15-11.35.50:403][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.10.15-11.35.50:403][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.10.15-11.35.50:403][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.10.15-11.35.50:403][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.10.15-11.35.50:403][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.10.15-11.35.50:524][  0]SourceControl: Source control is disabled
+[2019.10.15-11.35.50:524][  0]Cmd: MAP LOAD FILE="F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Maps/TwinStickExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.15-11.35.50:524][  0]LogEditorServer: Warning: Can't find file 'F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2019.10.15-11.35.50:525][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.15-11.35.50:525][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.16ms to complete.
+[2019.10.15-11.35.50:525][  0]LogFileHelpers: Loading map 'TwinStickExampleMap' took 0.001
+[2019.10.15-11.35.50:642][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.15-11.35.50:650][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.15-11.35.50:657][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.15-11.35.50:663][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.15-11.35.50:669][  0]LogCollectionManager: Loaded 0 collections in 0.001470 seconds
+[2019.10.15-11.35.50:695][  0]LogFileCache: Scanning file cache for directory 'F:/University/Year 2/Games Development/NeonGlider/Saved/Collections/' took 0.01s
+[2019.10.15-11.35.50:695][  0]LogFileCache: Scanning file cache for directory 'F:/University/Year 2/Games Development/NeonGlider/Content/Developers/V8076248/Collections/' took 0.01s
+[2019.10.15-11.35.50:695][  0]LogFileCache: Scanning file cache for directory 'F:/University/Year 2/Games Development/NeonGlider/Content/Collections/' took 0.00s
+[2019.10.15-11.35.50:695][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.10.15-11.35.50:709][  0]LogContentBrowser: Native class hierarchy populated in 0.0135 seconds. Added 2651 classes and 620 folders.
+[2019.10.15-11.35.50:718][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.10.15-11.35.50:720][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.15-11.35.50:721][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.15-11.35.50:722][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.15-11.35.50:722][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.15-11.35.50:723][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.15-11.35.50:723][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.15-11.35.50:724][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.15-11.35.50:724][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.15-11.35.50:725][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.15-11.35.50:725][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.15-11.35.50:725][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.15-11.35.50:726][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.15-11.35.50:727][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.15-11.35.50:728][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.15-11.35.50:729][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.15-11.35.50:729][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.15-11.35.50:730][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.15-11.35.50:730][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.15-11.35.50:731][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.15-11.35.50:731][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.15-11.35.50:732][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.15-11.35.50:732][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.15-11.35.50:732][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.15-11.35.50:733][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.15-11.35.50:733][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.15-11.35.50:734][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.15-11.35.50:788][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.15-11.35.50:792][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.10.15-11.35.50:825][  0]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.15-11.35.50:828][  0]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.15-11.35.50:833][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.15-11.35.50:937][  0]LogRenderer: Reallocating scene render targets to support 1208x652 Format 10 NumSamples 1 (Frame:1).
+[2019.10.15-11.35.51:074][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.15-11.35.51:088][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.10.15-11.35.51:118][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.15-11.35.51:118][  0]LogLoad: (Engine Initialization) Total time: 11.93 seconds
+[2019.10.15-11.35.51:118][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.15-11.35.51:151][  0]LogAssetRegistry: Asset discovery search completed in 5.9747 seconds
+[2019.10.15-11.35.51:153][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.10.15-11.35.51:153][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2019.10.15-11.35.51:154][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.15-11.35.51:172][  0]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.15-11.36.04:623][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-11.36.10:754][264]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.15-11.36.11:527][264]LogAIModule: Creating AISystem for world MainMap
+[2019.10.15-11.36.11:540][264]LogAssetEditorManager: Opening Asset editor for World /Game/TwinStickBP/Maps/MainMAp.MainMap
+[2019.10.15-11.36.11:578][264]Cmd: MAP LOAD FILE="F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Maps/MainMAp.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.15-11.36.11:578][264]LightingResults: New page: Lighting Build
+[2019.10.15-11.36.11:580][264]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2019.10.15-11.36.11:581][264]LoadErrors: New page: Loading map: MainMAp.umap
+[2019.10.15-11.36.11:581][264]MapCheck: New page: Map Check
+[2019.10.15-11.36.11:581][264]LightingResults: New page: Lighting Build
+[2019.10.15-11.36.11:620][264]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.15-11.36.11:673][264]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.15-11.36.11:673][264]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.095ms to complete.
+[2019.10.15-11.36.11:673][264]LogFileHelpers: Loading map 'MainMAp' took 0.096
+[2019.10.15-11.36.17:226][912]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/TwinStickBP/Blueprints/Widgets/WBP_MainUI.WBP_MainUI
+[2019.10.15-11.36.17:701][912]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 117 classes and 0 folders.
+[2019.10.15-11.36.18:898][912]LogSlate: Took 0.000398 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.15-11.36.38:862][ 14]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.15-11.36.38:885][ 14]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-11.36.38:885][ 14]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.15-11.36.38:886][ 14]PIE: New page: PIE session: MainMAp (15 Oct 2019 13:36:38)
+[2019.10.15-11.36.38:898][ 14]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp
+[2019.10.15-11.36.38:903][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004795s)
+[2019.10.15-11.36.38:903][ 14]LogAIModule: Creating AISystem for world MainMap
+[2019.10.15-11.36.38:904][ 14]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2019.10.15-11.36.38:904][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/MainMAp.MainMap to /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp.MainMap (0.005691s)
+[2019.10.15-11.36.38:939][ 14]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.15-11.36.38:960][ 14]LogInit: FAudioDevice initialized.
+[2019.10.15-11.36.39:000][ 14]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.10.15-11.36.39:003][ 14]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp.MainMap up for play (max tick rate 0) at 2019.10.15-12.36.39
+[2019.10.15-11.36.39:003][ 14]LogWorld: Bringing up level for play took: 0.002901
+[2019.10.15-11.36.39:026][ 14]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 20 classes and 0 folders.
+[2019.10.15-11.36.39:029][ 14]PIE: Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp 0.901
+[2019.10.15-11.36.39:030][ 14]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-11.36.44:868][705]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-11.36.44:868][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.15-11.36.44:901][705]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.15-11.36.44:901][705]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-11.36.44:943][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.15-11.36.44:976][706]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.10.15-11.36.47:048][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-11.36.50:307][318]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TwinStickBP/Blueprints/TwinStickGameMode.TwinStickGameMode
+[2019.10.15-11.36.51:598][385]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.15-11.37.29:307][555]BlueprintLog: New page: Compile TwinStickGameMode
+[2019.10.15-11.37.38:459][295]BlueprintLog: New page: Compile TwinStickGameMode
+[2019.10.15-11.37.40:115][405]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.15-11.37.40:135][405]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-11.37.40:135][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.15-11.37.40:135][405]PIE: New page: PIE session: MainMAp (15 Oct 2019 13:37:40)
+[2019.10.15-11.37.40:136][405]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp
+[2019.10.15-11.37.40:140][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003851s)
+[2019.10.15-11.37.40:140][405]LogAIModule: Creating AISystem for world MainMap
+[2019.10.15-11.37.40:140][405]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2019.10.15-11.37.40:140][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/MainMAp.MainMap to /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp.MainMap (0.004602s)
+[2019.10.15-11.37.40:172][405]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.15-11.37.40:193][405]LogInit: FAudioDevice initialized.
+[2019.10.15-11.37.40:220][405]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.10.15-11.37.40:222][405]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp.MainMap up for play (max tick rate 0) at 2019.10.15-12.37.40
+[2019.10.15-11.37.40:222][405]LogWorld: Bringing up level for play took: 0.001149
+[2019.10.15-11.37.40:235][405]PIE: Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp 0.102
+[2019.10.15-11.37.40:235][405]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-11.37.50:127][369]LogNet: Browse: /Game/TwinStickBP/Maps/MainMAp
+[2019.10.15-11.37.50:127][369]LogLoad: LoadMap: /Game/TwinStickBP/Maps/MainMAp
+[2019.10.15-11.37.50:158][369]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp
+[2019.10.15-11.37.50:162][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003734s)
+[2019.10.15-11.37.50:162][369]LogAIModule: Creating AISystem for world MainMap
+[2019.10.15-11.37.50:162][369]LogPlayLevel: PIE: World Init took: (0.000501s)
+[2019.10.15-11.37.50:162][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/MainMAp.MainMap to /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp.MainMap (0.004377s)
+[2019.10.15-11.37.50:162][369]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.10.15-11.37.50:164][369]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp.MainMap up for play (max tick rate 0) at 2019.10.15-12.37.50
+[2019.10.15-11.37.50:164][369]LogWorld: Bringing up level for play took: 0.001151
+[2019.10.15-11.37.50:165][369]LogLoad: Took 0.037454 seconds to LoadMap(/Game/TwinStickBP/Maps/UEDPIE_0_MainMAp)
+[2019.10.15-11.37.56:208][961]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-11.37.56:208][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.15-11.37.56:246][961]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.15-11.37.56:246][961]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-11.37.56:291][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.15-11.37.56:322][962]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.10.15-11.37.57:148][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-11.38.01:132][423]LogEditorTransaction: Undo Edit Base Time
+[2019.10.15-11.38.01:801][474]LogEditorTransaction: Undo Create Pin Link
+[2019.10.15-11.38.02:477][525]LogEditorTransaction: Undo Create Pin Link
+[2019.10.15-11.38.03:741][634]LogEditorTransaction: Undo Break Pin Links
+[2019.10.15-11.38.05:510][786]BlueprintLog: New page: Compile TwinStickGameMode
+[2019.10.15-11.38.07:934][980]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.15-11.38.07:954][980]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-11.38.07:954][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.15-11.38.07:954][980]PIE: New page: PIE session: MainMAp (15 Oct 2019 13:38:07)
+[2019.10.15-11.38.07:955][980]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp
+[2019.10.15-11.38.07:959][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003846s)
+[2019.10.15-11.38.07:959][980]LogAIModule: Creating AISystem for world MainMap
+[2019.10.15-11.38.07:959][980]LogPlayLevel: PIE: World Init took: (0.000600s)
+[2019.10.15-11.38.07:959][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/MainMAp.MainMap to /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp.MainMap (0.004570s)
+[2019.10.15-11.38.08:001][980]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.15-11.38.08:021][980]LogInit: FAudioDevice initialized.
+[2019.10.15-11.38.08:053][980]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.10.15-11.38.08:055][980]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp.MainMap up for play (max tick rate 0) at 2019.10.15-12.38.08
+[2019.10.15-11.38.08:055][980]LogWorld: Bringing up level for play took: 0.001219
+[2019.10.15-11.38.08:068][980]PIE: Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp -0.068
+[2019.10.15-11.38.08:068][980]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-11.38.11:367][333]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-11.38.11:367][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.15-11.38.11:398][333]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.15-11.38.11:398][333]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-11.38.11:433][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.15-11.38.11:498][335]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.10.15-11.38.11:963][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-11.38.17:585][906]BlueprintLog: New page: Compile TwinStickGameMode
+[2019.10.15-11.38.18:882][971]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.15-11.38.18:904][971]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-11.38.18:904][971]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.15-11.38.18:904][971]PIE: New page: PIE session: MainMAp (15 Oct 2019 13:38:18)
+[2019.10.15-11.38.18:905][971]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp
+[2019.10.15-11.38.18:909][971]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004288s)
+[2019.10.15-11.38.18:910][971]LogAIModule: Creating AISystem for world MainMap
+[2019.10.15-11.38.18:910][971]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2019.10.15-11.38.18:910][971]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/MainMAp.MainMap to /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp.MainMap (0.005109s)
+[2019.10.15-11.38.18:950][971]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.15-11.38.18:972][971]LogInit: FAudioDevice initialized.
+[2019.10.15-11.38.19:005][971]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.10.15-11.38.19:007][971]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp.MainMap up for play (max tick rate 0) at 2019.10.15-12.38.19
+[2019.10.15-11.38.19:007][971]LogWorld: Bringing up level for play took: 0.001289
+[2019.10.15-11.38.19:021][971]PIE: Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp 0.882
+[2019.10.15-11.38.19:021][971]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-11.38.27:179][763]LogNet: Browse: /Game/TwinStickBP/Maps/TestMap
+[2019.10.15-11.38.27:179][763]LogLoad: LoadMap: /Game/TwinStickBP/Maps/TestMap
+[2019.10.15-11.38.27:217][763]LogAIModule: Creating AISystem for world TestMap
+[2019.10.15-11.38.27:217][763]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.10.15-11.38.27:218][763]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2019.10.15-12.38.27
+[2019.10.15-11.38.27:218][763]LogWorld: Bringing up level for play took: 0.000608
+[2019.10.15-11.38.27:220][763]LogLoad: Took 0.041334 seconds to LoadMap(/Game/TwinStickBP/Maps/TestMap)
+[2019.10.15-11.38.29:195][956]LogNet: Browse: /Game/TwinStickBP/Maps/MainMAp
+[2019.10.15-11.38.29:195][956]LogLoad: LoadMap: /Game/TwinStickBP/Maps/MainMAp
+[2019.10.15-11.38.29:226][956]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp
+[2019.10.15-11.38.29:230][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003956s)
+[2019.10.15-11.38.29:230][956]LogAIModule: Creating AISystem for world MainMap
+[2019.10.15-11.38.29:231][956]LogPlayLevel: PIE: World Init took: (0.000554s)
+[2019.10.15-11.38.29:231][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/MainMAp.MainMap to /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp.MainMap (0.004670s)
+[2019.10.15-11.38.29:231][956]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.10.15-11.38.29:232][956]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp.MainMap up for play (max tick rate 0) at 2019.10.15-12.38.29
+[2019.10.15-11.38.29:232][956]LogWorld: Bringing up level for play took: 0.001175
+[2019.10.15-11.38.29:233][956]LogLoad: Took 0.038576 seconds to LoadMap(/Game/TwinStickBP/Maps/UEDPIE_0_MainMAp)
+[2019.10.15-11.38.31:213][151]LogNet: Browse: /Game/TwinStickBP/Maps/MainMAp
+[2019.10.15-11.38.31:213][151]LogLoad: LoadMap: /Game/TwinStickBP/Maps/MainMAp
+[2019.10.15-11.38.31:245][151]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp
+[2019.10.15-11.38.31:249][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003662s)
+[2019.10.15-11.38.31:250][151]LogAIModule: Creating AISystem for world MainMap
+[2019.10.15-11.38.31:250][151]LogPlayLevel: PIE: World Init took: (0.000504s)
+[2019.10.15-11.38.31:250][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/MainMAp.MainMap to /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp.MainMap (0.004306s)
+[2019.10.15-11.38.31:250][151]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.10.15-11.38.31:251][151]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp.MainMap up for play (max tick rate 0) at 2019.10.15-12.38.31
+[2019.10.15-11.38.31:251][151]LogWorld: Bringing up level for play took: 0.001099
+[2019.10.15-11.38.31:252][151]LogLoad: Took 0.039348 seconds to LoadMap(/Game/TwinStickBP/Maps/UEDPIE_0_MainMAp)
+[2019.10.15-11.38.33:229][346]LogNet: Browse: /Game/TwinStickBP/Maps/MainMAp
+[2019.10.15-11.38.33:229][346]LogLoad: LoadMap: /Game/TwinStickBP/Maps/MainMAp
+[2019.10.15-11.38.33:261][346]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp
+[2019.10.15-11.38.33:264][346]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003789s)
+[2019.10.15-11.38.33:265][346]LogAIModule: Creating AISystem for world MainMap
+[2019.10.15-11.38.33:265][346]LogPlayLevel: PIE: World Init took: (0.000486s)
+[2019.10.15-11.38.33:265][346]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/MainMAp.MainMap to /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp.MainMap (0.004414s)
+[2019.10.15-11.38.33:265][346]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.10.15-11.38.33:266][346]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp.MainMap up for play (max tick rate 0) at 2019.10.15-12.38.33
+[2019.10.15-11.38.33:267][346]LogWorld: Bringing up level for play took: 0.001165
+[2019.10.15-11.38.33:268][346]LogLoad: Took 0.038172 seconds to LoadMap(/Game/TwinStickBP/Maps/UEDPIE_0_MainMAp)
+[2019.10.15-11.38.35:248][541]LogNet: Browse: /Game/TwinStickBP/Maps/MainMAp
+[2019.10.15-11.38.35:248][541]LogLoad: LoadMap: /Game/TwinStickBP/Maps/MainMAp
+[2019.10.15-11.38.35:281][541]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp
+[2019.10.15-11.38.35:285][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003803s)
+[2019.10.15-11.38.35:285][541]LogAIModule: Creating AISystem for world MainMap
+[2019.10.15-11.38.35:285][541]LogPlayLevel: PIE: World Init took: (0.000505s)
+[2019.10.15-11.38.35:285][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/MainMAp.MainMap to /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp.MainMap (0.004459s)
+[2019.10.15-11.38.35:286][541]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.10.15-11.38.35:287][541]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp.MainMap up for play (max tick rate 0) at 2019.10.15-12.38.35
+[2019.10.15-11.38.35:287][541]LogWorld: Bringing up level for play took: 0.001114
+[2019.10.15-11.38.35:288][541]LogLoad: Took 0.039138 seconds to LoadMap(/Game/TwinStickBP/Maps/UEDPIE_0_MainMAp)
+[2019.10.15-11.38.37:262][737]LogNet: Browse: /Game/TwinStickBP/Maps/MainMAp
+[2019.10.15-11.38.37:262][737]LogLoad: LoadMap: /Game/TwinStickBP/Maps/MainMAp
+[2019.10.15-11.38.37:295][737]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp
+[2019.10.15-11.38.37:299][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003706s)
+[2019.10.15-11.38.37:300][737]LogAIModule: Creating AISystem for world MainMap
+[2019.10.15-11.38.37:300][737]LogPlayLevel: PIE: World Init took: (0.000534s)
+[2019.10.15-11.38.37:300][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/MainMAp.MainMap to /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp.MainMap (0.004396s)
+[2019.10.15-11.38.37:300][737]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.10.15-11.38.37:301][737]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp.MainMap up for play (max tick rate 0) at 2019.10.15-12.38.37
+[2019.10.15-11.38.37:301][737]LogWorld: Bringing up level for play took: 0.001124
+[2019.10.15-11.38.37:302][737]LogLoad: Took 0.039948 seconds to LoadMap(/Game/TwinStickBP/Maps/UEDPIE_0_MainMAp)
+[2019.10.15-11.38.37:909][795]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-11.38.37:909][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.15-11.38.37:941][795]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.15-11.38.37:942][795]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-11.38.37:978][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.15-11.38.38:010][796]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.10.15-11.38.40:502][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-11.38.52:728][230]BlueprintLog: New page: Compile TwinStickGameMode
+[2019.10.15-11.39.08:549][544]LogSlate: Window 'Save Content' being destroyed
+[2019.10.15-11.39.08:566][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Blueprints/TwinStickGameMode" FILE="F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Blueprints/TwinStickGameMode.uasset" SILENT=true
+[2019.10.15-11.39.08:796][544]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/TwinStickGameMode4C4C24204DEDD5646EECBCBAE4403203.tmp' to 'F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Blueprints/TwinStickGameMode.uasset'
+[2019.10.15-11.39.36:077][407]BlueprintLog: New page: Compile TwinStickGameMode
+[2019.10.15-11.40.22:331][909]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy_C (BP_Enemy)
+[2019.10.15-11.40.23:828][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.15-11.40.24:516][136]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.15-11.40.24:518][136]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TwinStickBP/Blueprints/BP_Enemy.BP_Enemy
+[2019.10.15-11.40.55:363][726]LogSlate: Window 'Save Content' being destroyed
+[2019.10.15-11.40.55:373][726]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.15-11.40.55:379][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Blueprints/TwinStickGameMode" FILE="F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Blueprints/TwinStickGameMode.uasset" SILENT=true
+[2019.10.15-11.40.55:537][726]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/TwinStickGameModeAE95B3234607B2A9156C2AB1A5F6A6FE.tmp' to 'F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Blueprints/TwinStickGameMode.uasset'
+[2019.10.15-11.40.57:272][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-11.40.57:354][878]LogTemp: Repeating last play command: Standalone Game
+[2019.10.15-11.41.23:483][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-11.41.23:653][311]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn
+[2019.10.15-11.41.37:020][142]BlueprintLog: New page: Compile TwinStickPawn
+[2019.10.15-11.43.15:192][ 84]LogTemp: Repeating last play command: Standalone Game
+[2019.10.15-11.43.16:710][ 84]LogSlate: Window 'Save Content' being destroyed
+[2019.10.15-11.43.16:720][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.15-11.43.16:739][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Blueprints/TwinStickPawn" FILE="F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset" SILENT=true
+[2019.10.15-11.43.16:898][ 84]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/TwinStickPawnF944ED7143B8BE76A30F0AB313368469.tmp' to 'F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2019.10.15-11.43.16:908][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Maps/MainMAp" FILE="F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Maps/MainMAp.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.15-11.43.17:234][ 84]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/MainMAp29B8A52145951D5E26CAFA9AD0723954.tmp' to 'F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Maps/MainMAp.umap'
+[2019.10.15-11.43.17:360][ 84]LogFileHelpers: Saving map 'MainMAp' took 0.453
+[2019.10.15-11.46.40:648][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-11.46.40:720][502]BlueprintLog: New page: Compile TwinStickPawn
+[2019.10.15-11.46.41:667][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Blueprints/TwinStickPawn" FILE="F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset" SILENT=true
+[2019.10.15-11.46.41:911][527]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/TwinStickPawn17FFE8E94486A4134E75FFA381996A0C.tmp' to 'F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2019.10.15-11.46.43:510][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-11.47.27:597][484]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.15-11.48.39:007][849]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.15-11.48.51:186][838]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (12.136 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.15-11.48.51:268][844]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TwinStickBP/Blueprints/Enemy_AI_1.Enemy_AI_1
+[2019.10.15-11.48.51:631][845]LogRenderer: Reallocating scene render targets to support 1208x1020 Format 10 NumSamples 1 (Frame:1).
+[2019.10.15-11.49.43:302][ 53]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.15-11.50.11:360][584]LogMetaData: Removing '/Game/TwinStickBP/Blueprints/BP_Enemy_AI_1.BP_Enemy_AI_1:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/TwinStickBP/Blueprints/Enemy_AI_1.PackageMetaData'
+[2019.10.15-11.50.11:360][584]LogMetaData: Removing '/Game/TwinStickBP/Blueprints/BP_Enemy_AI_1.SKEL_BP_Enemy_AI_1_C' ref from Metadata '/Game/TwinStickBP/Blueprints/Enemy_AI_1.PackageMetaData'
+[2019.10.15-11.50.11:360][584]LogMetaData: Removing '/Game/TwinStickBP/Blueprints/BP_Enemy_AI_1.BP_Enemy_AI_1_C' ref from Metadata '/Game/TwinStickBP/Blueprints/Enemy_AI_1.PackageMetaData'
+[2019.10.15-11.50.11:360][584]LogMetaData: Removing '/Game/TwinStickBP/Blueprints/BP_Enemy_AI_1.BP_Enemy_AI_1:EventGraph.K2Node_Event_0' ref from Metadata '/Game/TwinStickBP/Blueprints/Enemy_AI_1.PackageMetaData'
+[2019.10.15-11.50.11:360][584]LogMetaData: Removing '/Game/TwinStickBP/Blueprints/BP_Enemy_AI_1.BP_Enemy_AI_1:EventGraph.K2Node_Event_1' ref from Metadata '/Game/TwinStickBP/Blueprints/Enemy_AI_1.PackageMetaData'
+[2019.10.15-11.50.11:375][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Blueprints/BP_Enemy_AI_1" FILE="F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Blueprints/BP_Enemy_AI_1.uasset" SILENT=true
+[2019.10.15-11.50.11:403][584]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/BP_Enemy_AI_1C413095B4E08BA1D71FA04901597963D.tmp' to 'F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Blueprints/BP_Enemy_AI_1.uasset'
+[2019.10.15-11.52.50:995][298]BlueprintLog: New page: Compile BP_Enemy_AI_1
+[2019.10.15-11.52.51:712][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Blueprints/BP_Enemy_AI_1" FILE="F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Blueprints/BP_Enemy_AI_1.uasset" SILENT=true
+[2019.10.15-11.52.51:838][355]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/BP_Enemy_AI_10D9EFA9E4C901397E150AD8330731CED.tmp' to 'F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Blueprints/BP_Enemy_AI_1.uasset'
+[2019.10.15-11.53.04:324][570]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TwinStickBP/Blueprints/Enemy_AI_Pawn.Enemy_AI_Pawn
+[2019.10.15-11.53.15:285][716]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.15-11.53.21:974][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-11.53.23:213][476]LogAssetEditorManager: Opening Asset editor for Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+[2019.10.15-11.53.23:219][476]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.10.15-11.53.23:760][476]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.10.15-11.53.23:810][476]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.15-11.53.23:810][476]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.10.15-11.53.23:810][476]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.10.15-11.53.23:810][476]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.10.15-11.53.23:810][476]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.10.15-11.53.23:810][476]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.10.15-11.53.23:810][476]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.15-11.53.23:810][476]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.15-11.53.23:843][476]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.15-11.53.24:463][502]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.15-11.53.24:478][503]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.15-11.53.24:478][503]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.10.15-11.53.24:510][505]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.15-11.53.24:510][505]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.15-11.53.24:524][506]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.15-11.53.24:524][506]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.15-11.53.24:552][508]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.15-11.53.24:639][514]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.15-11.53.24:768][521]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.15-11.53.24:802][523]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.15-11.53.24:906][529]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.15-11.53.24:943][531]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.15-11.53.24:943][531]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.15-11.53.24:974][533]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.15-11.53.25:007][535]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.10.15-11.53.25:025][536]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.10.15-11.53.25:075][539]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.10.15-11.53.25:187][545]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.10.15-11.53.25:232][547]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.10.15-11.53.25:246][548]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.10.15-11.53.25:340][554]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.10.15-11.53.25:371][556]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.15-11.53.25:418][559]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.15-11.53.25:628][574]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.10.15-11.53.25:628][574]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2019.10.15-11.53.25:628][574]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.10.15-11.53.25:628][574]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.10.15-11.53.25:628][574]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.15-11.53.27:588][785]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.10.15-11.53.27:612][785]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.15-11.53.27:627][785]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.15-11.53.27:627][785]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.10.15-11.53.27:627][785]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.10.15-11.53.27:627][785]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.10.15-11.53.27:627][785]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.10.15-11.53.27:627][785]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.10.15-11.53.27:627][785]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.15-11.53.27:627][785]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.15-11.53.27:831][797]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.15-11.53.27:846][798]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.15-11.53.27:846][798]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.10.15-11.53.27:847][798]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.15-11.53.27:886][801]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.15-11.53.27:886][801]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.15-11.53.27:886][801]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.15-11.53.27:886][801]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.15-11.53.27:975][807]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.15-11.53.28:102][814]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.15-11.53.28:155][817]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.15-11.53.28:222][821]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.15-11.53.28:271][824]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.15-11.53.28:288][825]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.15-11.53.28:318][827]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.15-11.53.28:333][828]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.10.15-11.53.28:351][829]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.10.15-11.53.28:383][831]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.10.15-11.53.28:520][839]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.10.15-11.53.28:574][842]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.10.15-11.53.28:574][842]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.10.15-11.53.28:660][847]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.10.15-11.53.28:694][849]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.15-11.53.28:746][852]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.15-11.53.28:955][866]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.10.15-11.53.28:955][866]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2019.10.15-11.53.28:955][866]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.10.15-11.53.28:955][866]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.10.15-11.53.28:955][866]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.15-11.53.30:832][ 70]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.10.15-11.53.30:857][ 70]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.15-11.53.30:857][ 70]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.10.15-11.53.30:857][ 70]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.10.15-11.53.30:857][ 70]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.10.15-11.53.30:857][ 70]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.10.15-11.53.30:857][ 70]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.10.15-11.53.30:857][ 70]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.15-11.53.30:857][ 70]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.15-11.53.30:860][ 70]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.15-11.53.31:055][ 81]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.15-11.53.31:068][ 82]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.15-11.53.31:082][ 83]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.10.15-11.53.31:096][ 84]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.15-11.53.31:096][ 84]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.15-11.53.31:121][ 86]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.15-11.53.31:121][ 86]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.15-11.53.31:121][ 86]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.15-11.53.31:205][ 92]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.15-11.53.31:352][100]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.15-11.53.31:386][102]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.15-11.53.31:467][107]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.15-11.53.31:517][110]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.15-11.53.31:534][111]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.15-11.53.31:534][111]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.15-11.53.31:566][113]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.10.15-11.53.31:600][115]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.10.15-11.53.31:616][116]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.10.15-11.53.31:738][123]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.10.15-11.53.31:808][127]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.10.15-11.53.31:824][128]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.10.15-11.53.31:918][134]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.10.15-11.53.31:935][135]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.15-11.53.31:967][137]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.15-11.53.32:194][152]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.10.15-11.53.32:194][152]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2019.10.15-11.53.32:194][152]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.10.15-11.53.32:194][152]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.10.15-11.53.32:194][152]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.15-11.53.32:308][164]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.10.15-11.53.32:331][164]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.15-11.53.32:331][164]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.10.15-11.53.32:331][164]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.10.15-11.53.32:331][164]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.10.15-11.53.32:331][164]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.10.15-11.53.32:331][164]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.10.15-11.53.32:331][164]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.15-11.53.32:331][164]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.15-11.53.32:331][164]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.15-11.53.32:530][175]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.15-11.53.32:545][176]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.15-11.53.32:559][177]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.10.15-11.53.32:559][177]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.15-11.53.32:559][177]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.15-11.53.32:594][180]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.15-11.53.32:594][180]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.15-11.53.32:594][180]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.15-11.53.32:700][187]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.15-11.53.32:817][193]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.15-11.53.32:865][196]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.15-11.53.32:931][200]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.15-11.53.32:982][203]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.15-11.53.32:995][204]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.15-11.53.33:027][206]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.15-11.53.33:027][206]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.10.15-11.53.33:060][208]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.10.15-11.53.33:111][211]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.10.15-11.53.33:220][217]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.10.15-11.53.33:275][220]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.10.15-11.53.33:276][220]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.10.15-11.53.33:379][226]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.10.15-11.53.33:396][227]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.15-11.53.33:463][231]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.15-11.53.33:671][245]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.10.15-11.53.33:695][245]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.15-11.53.33:695][245]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.10.15-11.53.33:695][245]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.10.15-11.53.33:695][245]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.10.15-11.53.33:695][245]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.10.15-11.53.33:695][245]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.10.15-11.53.33:695][245]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.15-11.53.33:695][245]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.15-11.53.33:698][245]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.15-11.53.33:901][256]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.15-11.53.33:915][257]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.15-11.53.33:915][257]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.10.15-11.53.33:928][258]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.15-11.53.33:928][258]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.15-11.53.33:928][258]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.15-11.53.33:928][258]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.15-11.53.33:975][262]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.15-11.53.34:053][267]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.15-11.53.34:193][274]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.15-11.53.34:225][276]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.15-11.53.34:310][281]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.15-11.53.34:328][282]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.15-11.53.34:361][284]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.15-11.53.34:376][285]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.15-11.53.34:376][285]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.10.15-11.53.34:443][289]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.10.15-11.53.34:461][290]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.10.15-11.53.34:569][296]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.10.15-11.53.34:622][299]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.10.15-11.53.34:639][300]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.10.15-11.53.34:745][306]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.10.15-11.53.34:762][307]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.15-11.53.34:796][309]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.15-11.53.34:871][313]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.10.15-11.53.34:900][313]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.15-11.53.34:900][313]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.10.15-11.53.34:904][313]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.15-11.53.34:922][313]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.15-11.53.34:967][315]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.10.15-11.53.34:967][315]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.10.15-11.53.35:013][318]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.10.15-11.53.35:032][319]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.10.15-11.53.35:071][321]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.10.15-11.53.35:139][325]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.15-11.53.35:139][325]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.15-11.53.35:168][327]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.10.15-11.53.35:168][327]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.15-11.53.35:168][327]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.15-11.53.35:208][330]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.15-11.53.35:209][330]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.15-11.53.35:209][330]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.15-11.53.35:299][336]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.15-11.53.35:432][343]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.15-11.53.35:466][345]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.15-11.53.35:560][351]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.15-11.53.35:595][353]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.15-11.53.35:627][355]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.15-11.53.35:640][356]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.15-11.53.35:640][356]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.10.15-11.53.35:675][358]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.10.15-11.53.35:707][360]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.10.15-11.53.35:836][367]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.10.15-11.53.35:874][369]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.10.15-11.53.35:893][370]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.10.15-11.53.36:000][376]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.10.15-11.53.36:034][378]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.15-11.53.36:052][379]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.15-11.53.36:271][394]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.10.15-11.53.36:271][394]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2019.10.15-11.53.36:271][394]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.10.15-11.53.36:271][394]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.10.15-11.53.36:271][394]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.15-11.53.37:511][532]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.10.15-11.53.37:534][532]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.15-11.53.37:534][532]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.10.15-11.53.37:534][532]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.10.15-11.53.37:534][532]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.10.15-11.53.37:534][532]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.10.15-11.53.37:534][532]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.10.15-11.53.37:534][532]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.15-11.53.37:534][532]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.15-11.53.37:537][532]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.15-11.53.37:564][532]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.15-11.53.37:738][543]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.15-11.53.37:751][544]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.15-11.53.37:763][545]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.10.15-11.53.37:763][545]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.15-11.53.37:763][545]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.15-11.53.37:763][545]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.15-11.53.37:806][549]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.15-11.53.37:806][549]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.15-11.53.37:905][556]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.15-11.53.38:028][563]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.15-11.53.38:059][565]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.15-11.53.38:136][570]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.15-11.53.38:168][572]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.15-11.53.38:199][574]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.15-11.53.38:212][575]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.15-11.53.38:225][576]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.10.15-11.53.38:274][579]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.10.15-11.53.38:295][580]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.10.15-11.53.38:407][586]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.10.15-11.53.38:461][589]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.10.15-11.53.38:480][590]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.10.15-11.53.38:565][595]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.10.15-11.53.38:595][597]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.15-11.53.38:625][599]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.15-11.53.38:840][614]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.10.15-11.53.38:840][614]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2019.10.15-11.53.38:840][614]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.10.15-11.53.38:840][614]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.10.15-11.53.38:840][614]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.15-11.53.40:030][751]LogMaterialEditor: Applying material BasicShapeMaterial
+[2019.10.15-11.53.40:571][751]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.10.15-11.53.40:679][751]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.15-11.53.40:679][751]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.10.15-11.53.40:679][751]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.10.15-11.53.40:679][751]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.10.15-11.53.40:679][751]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.10.15-11.53.40:679][751]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.10.15-11.53.40:679][751]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.15-11.53.40:679][751]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.15-11.53.40:694][751]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.10.15-11.53.40:744][751]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.10.15-11.53.40:855][751]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.10.15-11.53.41:845][751]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.10.15-11.53.41:845][751]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.10.15-11.53.41:845][751]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.10.15-11.53.41:845][751]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.10.15-11.53.41:845][751]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.10.15-11.53.41:845][751]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.10.15-11.53.41:845][751]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.10.15-11.53.41:845][751]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.10.15-11.53.41:845][751]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.10.15-11.53.41:845][751]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.10.15-11.53.41:845][751]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.10.15-11.53.41:845][751]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.10.15-11.53.41:845][751]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.10.15-11.53.41:845][751]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.10.15-11.53.41:845][751]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.10.15-11.53.41:845][751]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.10.15-11.53.41:845][751]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.10.15-11.53.41:845][751]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.10.15-11.53.41:845][751]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.10.15-11.53.41:845][751]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.10.15-11.53.41:845][751]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.10.15-11.53.41:845][751]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.10.15-11.53.41:846][751]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.10.15-11.53.41:846][751]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.10.15-11.53.41:846][751]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.10.15-11.53.41:846][751]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.10.15-11.53.41:846][751]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.10.15-11.53.41:846][751]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.15-11.53.41:848][751]TextureStreamingBuild: Display: Compiling optional shaders took 1.003 seconds.
+[2019.10.15-11.53.41:895][751]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.15-11.53.41:908][751]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.15-11.53.42:931][822]LogMaterialEditor: Saving and Compiling material BasicShapeMaterial
+[2019.10.15-11.53.44:768][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" SILENT=true
+[2019.10.15-11.53.44:794][822]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/BasicShapeMaterialE933046144A65C915AAE1298C44B463F.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-11.53.44:794][822]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset', retrying in .5s...
+[2019.10.15-11.53.45:296][822]LogFileManager: Error: Error deleting file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'.
+[2019.10.15-11.53.45:296][822]LogSavePackage: Error: Error saving '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-11.53.47:182][822]LogSlate: Window 'Message' being destroyed
+[2019.10.15-11.53.47:190][822]EditorErrors: New page: Save Output
+[2019.10.15-11.53.47:190][822]EditorErrors: Warning: Error saving '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-11.53.47:201][822]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.10.15-11.53.47:201][822]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2019.10.15-11.53.47:201][822]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.10.15-11.53.47:201][822]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.10.15-11.53.47:201][822]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.15-11.53.48:453][935]LogSlate: Window 'Message Log' being destroyed
+[2019.10.15-11.53.48:458][935]LogSlate: Window 'Message Log' being destroyed
+[2019.10.15-11.54.56:227][149]BlueprintLog: New page: Compile Enemy_AI_Pawn
+[2019.10.15-11.54.56:611][164]BlueprintLog: New page: Compile Enemy_AI_Pawn
+[2019.10.15-11.54.57:673][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Blueprints/Enemy_AI_Pawn" FILE="F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Blueprints/Enemy_AI_Pawn.uasset" SILENT=true
+[2019.10.15-11.54.58:097][249]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/Enemy_AI_Pawn9F8509CE4BA5CB14343F46BF11F94BD6.tmp' to 'F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Blueprints/Enemy_AI_Pawn.uasset'
+[2019.10.15-11.55.02:620][596]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/MainMAp_Auto1495DE09240308FCF92E030826D18D796.tmp' to 'F:/University/Year 2/Games Development/NeonGlider/Saved/Autosaves/Game/TwinStickBP/Maps/MainMAp_Auto1.umap'
+[2019.10.15-11.55.02:669][596]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TwinStickBP/Maps/MainMAp' took 0.436
+[2019.10.15-11.55.02:669][596]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.436
+[2019.10.15-11.55.02:672][596]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/BasicShapes/BasicShapeMaterial] ([1] browsable assets)...
+[2019.10.15-11.55.02:672][596]OBJ SavePackage: Finished generating thumbnails for package [/Engine/BasicShapes/BasicShapeMaterial]
+[2019.10.15-11.55.02:697][596]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/BasicShapeMaterial_Auto1900E0CF844DCC0612A9547AD064FADC3.tmp' to 'F:/University/Year 2/Games Development/NeonGlider/Saved/Autosaves/Engine/BasicShapes/BasicShapeMaterial_Auto1.uasset'
+[2019.10.15-11.55.02:699][596]LogFileHelpers: Auto-saving content packages took 0.029
+[2019.10.15-11.55.22:314][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Blueprints/BP_Enemy_AI_1" FILE="F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Blueprints/BP_Enemy_AI_1.uasset" SILENT=true
+[2019.10.15-11.55.22:383][145]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/BP_Enemy_AI_1CC3145B240F4B461ACB1078FD17BC5DC.tmp' to 'F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Blueprints/BP_Enemy_AI_1.uasset'
+[2019.10.15-11.55.37:443][361]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.10.15-11.55.42:341][772]BlueprintLog: New page: Compile Enemy_AI_Pawn
+[2019.10.15-11.55.43:011][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Blueprints/Enemy_AI_Pawn" FILE="F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Blueprints/Enemy_AI_Pawn.uasset" SILENT=true
+[2019.10.15-11.55.43:081][808]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/Enemy_AI_PawnCD63CD9A4A5318070DC9E6B773BE8F86.tmp' to 'F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Blueprints/Enemy_AI_Pawn.uasset'
+[2019.10.15-11.55.58:855][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-11.58.40:452][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Blueprints/BP_Enemy_AI_1" FILE="F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Blueprints/BP_Enemy_AI_1.uasset" SILENT=true
+[2019.10.15-11.58.40:871][285]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/BP_Enemy_AI_13248961045301515B4C16AB86D5CE0E5.tmp' to 'F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Blueprints/BP_Enemy_AI_1.uasset'
+[2019.10.15-11.58.41:388][319]BlueprintLog: New page: Compile BP_Enemy_AI_1
+[2019.10.15-11.58.42:204][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Blueprints/BP_Enemy_AI_1" FILE="F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Blueprints/BP_Enemy_AI_1.uasset" SILENT=true
+[2019.10.15-11.58.42:275][361]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/BP_Enemy_AI_13A8BAADB4E7EF3E156BAAFB218243FAD.tmp' to 'F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Blueprints/BP_Enemy_AI_1.uasset'
+[2019.10.15-11.59.00:437][ 58]LogEditorViewport: Clicking on Actor (LMB): TwinStickPawn_C (TwinStickPawn)
+[2019.10.15-11.59.03:159][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-11.59.04:747][343]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy_C (BP_Enemy)
+[2019.10.15-11.59.06:070][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-11.59.12:441][900]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2019.10.15-11.59.12:916][925]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkyShereBlueprint)
+[2019.10.15-11.59.33:259][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-12.00.14:379][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Maps/MainMAp" FILE="F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Maps/MainMAp.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.15-12.00.15:033][976]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/MainMAp53F376214502AA774CB964A604972323.tmp' to 'F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Maps/MainMAp.umap'
+[2019.10.15-12.00.15:157][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Maps/MainMAp_BuiltData" FILE="F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Maps/MainMAp_BuiltData.uasset" SILENT=true
+[2019.10.15-12.00.15:386][976]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/MainMAp_BuiltDataFDA9D1A74881216D15890C8E603FE63D.tmp' to 'F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Maps/MainMAp_BuiltData.uasset'
+[2019.10.15-12.00.58:735][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-12.01.04:574][210]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy_C (BP_Enemy)
+[2019.10.15-12.01.07:477][389]LogEditorViewport: Clicking on Actor (context menu): BP_Enemy_C (BP_Enemy)
+[2019.10.15-12.01.07:504][389]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.15-12.01.15:753][923]LogEditorViewport: Clicking on Actor (LMB): TwinStickPawn_C (TwinStickPawn)
+[2019.10.15-12.01.16:687][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-12.01.18:736][123]LogEditorViewport: Clicking on Actor (LMB): Enemy_AI_Pawn_C (Enemy_AI_Pawn)
+[2019.10.15-12.01.20:183][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-12.01.31:129][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-12.02.05:169][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-12.02.21:664][119]Cmd: TRANSACTION UNDO
+[2019.10.15-12.02.21:664][119]LogEditorTransaction: Undo Scale Actors
+[2019.10.15-12.03.28:984][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-12.03.29:063][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Maps/MainMAp" FILE="F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Maps/MainMAp.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.15-12.03.29:705][445]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/MainMAp079F976C4856ABAB4251FB9A2103D4F3.tmp' to 'F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Maps/MainMAp.umap'
+[2019.10.15-12.03.29:830][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Maps/MainMAp_BuiltData" FILE="F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Maps/MainMAp_BuiltData.uasset" SILENT=true
+[2019.10.15-12.03.30:002][445]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/MainMAp_BuiltData89218BB1470CCEBAD57689AAFB61460E.tmp' to 'F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Maps/MainMAp_BuiltData.uasset'
+[2019.10.15-12.04.09:838][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-12.04.17:107][568]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.15-12.04.42:796][189]Cmd: POLY SELECT ADJACENT WALLS
+[2019.10.15-12.04.55:276][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.15-12.05.02:663][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-12.05.02:743][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Maps/MainMAp" FILE="F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Maps/MainMAp.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.15-12.05.03:057][522]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/MainMApB84EF50844E33D51EC5EB59F53B2A2B6.tmp' to 'F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Maps/MainMAp.umap'
+[2019.10.15-12.05.03:196][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Maps/MainMAp_BuiltData" FILE="F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Maps/MainMAp_BuiltData.uasset" SILENT=true
+[2019.10.15-12.05.03:357][522]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/MainMAp_BuiltData47338DE44221FA05326356991CCA288F.tmp' to 'F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Maps/MainMAp_BuiltData.uasset'
+[2019.10.15-12.05.04:955][620]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.15-12.05.11:673][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-12.05.11:745][ 74]LogTemp: Repeating last play command: Standalone Game
+[2019.10.15-12.05.13:304][ 74]LogSlate: Window 'Save Content' being destroyed
+[2019.10.15-12.05.13:313][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.15-12.05.13:318][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" SILENT=true
+[2019.10.15-12.05.13:337][ 74]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/BasicShapeMaterial08FC73614882B850BF8FA5AF185D9D64.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.05.13:337][ 74]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset', retrying in .5s...
+[2019.10.15-12.05.13:839][ 74]LogFileManager: Error: Error deleting file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'.
+[2019.10.15-12.05.13:839][ 74]LogSavePackage: Error: Error saving '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.05.21:510][ 74]LogSlate: Window 'Message' being destroyed
+[2019.10.15-12.05.21:514][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" SILENT=true
+[2019.10.15-12.05.21:530][ 74]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/BasicShapeMaterialB25B0E0745DB96185583AC8501F0C046.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.05.21:530][ 74]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset', retrying in .5s...
+[2019.10.15-12.05.22:032][ 74]LogFileManager: Error: Error deleting file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'.
+[2019.10.15-12.05.22:032][ 74]LogSavePackage: Error: Error saving '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.05.22:728][ 74]LogSlate: Window 'Message' being destroyed
+[2019.10.15-12.05.22:732][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" SILENT=true
+[2019.10.15-12.05.22:749][ 74]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/BasicShapeMaterial7C78640B431F11829D7462AD6DA0989A.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.05.22:749][ 74]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset', retrying in .5s...
+[2019.10.15-12.05.23:250][ 74]LogFileManager: Error: Error deleting file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'.
+[2019.10.15-12.05.23:250][ 74]LogSavePackage: Error: Error saving '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.05.23:761][ 74]LogSlate: Window 'Message' being destroyed
+[2019.10.15-12.05.23:764][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" SILENT=true
+[2019.10.15-12.05.23:780][ 74]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/BasicShapeMaterial7BDE3F2E49BB0EE5336A249ADA4D8BCD.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.05.23:781][ 74]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset', retrying in .5s...
+[2019.10.15-12.05.24:281][ 74]LogFileManager: Error: Error deleting file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'.
+[2019.10.15-12.05.24:281][ 74]LogSavePackage: Error: Error saving '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.05.24:740][ 74]LogSlate: Window 'Message' being destroyed
+[2019.10.15-12.05.24:743][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" SILENT=true
+[2019.10.15-12.05.24:759][ 74]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/BasicShapeMaterial2002666C4DD4D56D8A122FBA95633569.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.05.24:760][ 74]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset', retrying in .5s...
+[2019.10.15-12.05.25:261][ 74]LogFileManager: Error: Error deleting file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'.
+[2019.10.15-12.05.25:261][ 74]LogSavePackage: Error: Error saving '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.05.25:924][ 74]LogSlate: Window 'Message' being destroyed
+[2019.10.15-12.05.25:928][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" SILENT=true
+[2019.10.15-12.05.25:948][ 74]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/BasicShapeMaterial4BCD1EAB422BF27564CA5FBD2BECAD45.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.05.25:948][ 74]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset', retrying in .5s...
+[2019.10.15-12.05.26:450][ 74]LogFileManager: Error: Error deleting file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'.
+[2019.10.15-12.05.26:450][ 74]LogSavePackage: Error: Error saving '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.05.27:672][ 74]LogSlate: Window 'Message' being destroyed
+[2019.10.15-12.05.27:679][ 74]EditorErrors: New page: Save Output
+[2019.10.15-12.05.27:679][ 74]EditorErrors: Warning: Error saving '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.05.27:679][ 74]EditorErrors: Warning: Error saving '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.05.27:679][ 74]EditorErrors: Warning: Error saving '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.05.27:679][ 74]EditorErrors: Warning: Error saving '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.05.27:679][ 74]EditorErrors: Warning: Error saving '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.05.27:679][ 74]EditorErrors: Warning: Error saving '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.05.27:683][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.15-12.05.30:289][ 74]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.10.15-12.05.32:152][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-12.05.32:228][188]LogSlate: Window 'Message Log' being destroyed
+[2019.10.15-12.05.32:233][188]LogSlate: Window 'Message Log' being destroyed
+[2019.10.15-12.05.35:125][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-12.05.47:026][176]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.15-12.05.55:539][707]LogAssetEditorManager: Opening Asset editor for Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+[2019.10.15-12.05.55:543][707]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.10.15-12.05.55:627][707]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.10.15-12.05.55:648][707]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.10.15-12.05.55:671][707]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.15-12.05.55:671][707]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.10.15-12.05.55:671][707]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.10.15-12.05.55:671][707]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.10.15-12.05.55:671][707]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.10.15-12.05.55:671][707]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.10.15-12.05.55:671][707]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.15-12.05.55:671][707]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.15-12.05.55:696][707]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.15-12.05.56:231][726]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.15-12.05.56:254][727]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.15-12.05.56:254][727]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.10.15-12.05.56:302][729]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.15-12.05.56:302][729]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.15-12.05.56:302][729]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.15-12.05.56:351][731]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.15-12.05.56:351][731]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.15-12.05.56:421][734]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.15-12.05.56:583][740]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.15-12.05.56:609][741]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.15-12.05.56:732][746]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.15-12.05.56:780][748]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.15-12.05.56:804][749]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.15-12.05.56:804][749]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.15-12.05.56:827][750]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.10.15-12.05.56:871][752]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.10.15-12.05.56:894][753]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.10.15-12.05.57:068][760]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.10.15-12.05.57:093][761]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.10.15-12.05.57:118][762]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.10.15-12.05.57:298][768]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.10.15-12.05.57:299][768]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.15-12.05.57:351][770]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.15-12.05.57:600][780]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.10.15-12.05.57:600][780]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2019.10.15-12.05.57:600][780]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.10.15-12.05.57:600][780]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.10.15-12.05.57:600][780]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.15-12.05.59:330][886]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.10.15-12.05.59:360][886]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.15-12.05.59:360][886]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.10.15-12.05.59:360][886]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.10.15-12.05.59:360][886]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.10.15-12.05.59:361][886]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.10.15-12.05.59:361][886]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.10.15-12.05.59:361][886]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.15-12.05.59:361][886]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.15-12.05.59:364][886]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.15-12.05.59:594][895]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.15-12.05.59:618][896]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.15-12.05.59:618][896]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.10.15-12.05.59:638][897]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.15-12.05.59:638][897]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.15-12.05.59:638][897]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.15-12.05.59:638][897]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.15-12.05.59:680][899]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.15-12.05.59:773][903]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.15-12.05.59:908][908]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.15-12.05.59:958][910]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.15-12.06.00:062][914]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.15-12.06.00:087][915]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.15-12.06.00:111][916]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.15-12.06.00:136][917]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.15-12.06.00:137][917]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.10.15-12.06.00:182][919]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.10.15-12.06.00:205][920]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.10.15-12.06.00:364][926]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.10.15-12.06.00:414][928]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.10.15-12.06.00:438][929]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.10.15-12.06.00:543][933]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.10.15-12.06.00:566][934]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.15-12.06.00:640][937]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.15-12.06.00:865][947]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.10.15-12.06.00:865][947]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2019.10.15-12.06.00:865][947]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.10.15-12.06.00:865][947]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.10.15-12.06.00:865][947]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.15-12.06.01:378][984]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.10.15-12.06.01:401][984]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.15-12.06.01:401][984]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.10.15-12.06.01:401][984]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.10.15-12.06.01:401][984]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.10.15-12.06.01:401][984]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.10.15-12.06.01:401][984]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.10.15-12.06.01:401][984]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.15-12.06.01:401][984]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.15-12.06.01:404][984]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.10.15-12.06.01:431][984]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.15-12.06.01:632][993]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.15-12.06.01:632][993]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.15-12.06.01:632][993]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.10.15-12.06.01:632][993]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.15-12.06.01:683][996]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.15-12.06.01:683][996]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.10.15-12.06.01:683][996]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.10.15-12.06.01:683][996]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.10.15-12.06.01:786][  1]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.10.15-12.06.01:928][  6]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.10.15-12.06.01:980][  8]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.10.15-12.06.02:063][ 11]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.10.15-12.06.02:115][ 13]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.10.15-12.06.02:141][ 14]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.15-12.06.02:141][ 14]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.15-12.06.02:165][ 15]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.10.15-12.06.02:190][ 15]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.10.15-12.06.02:242][ 18]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.10.15-12.06.02:366][ 23]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.10.15-12.06.02:421][ 25]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.10.15-12.06.02:445][ 26]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.10.15-12.06.02:538][ 30]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.10.15-12.06.02:560][ 31]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.10.15-12.06.02:604][ 33]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.15-12.06.02:855][ 44]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.10.15-12.06.02:855][ 44]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2019.10.15-12.06.02:855][ 44]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.10.15-12.06.02:855][ 44]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.10.15-12.06.02:855][ 44]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.15-12.06.03:499][ 89]LogMaterialEditor: Applying material BasicShapeMaterial
+[2019.10.15-12.06.03:923][ 89]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.10.15-12.06.03:986][ 89]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.15-12.06.03:986][ 89]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.10.15-12.06.03:986][ 89]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.10.15-12.06.03:986][ 89]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.10.15-12.06.03:986][ 89]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.10.15-12.06.03:986][ 89]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.10.15-12.06.03:986][ 89]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.10.15-12.06.03:986][ 89]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.10.15-12.06.04:000][ 89]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.10.15-12.06.04:052][ 89]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.10.15-12.06.04:168][ 89]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.10.15-12.06.05:246][ 89]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.10.15-12.06.05:246][ 89]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.10.15-12.06.05:246][ 89]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.10.15-12.06.05:246][ 89]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.10.15-12.06.05:246][ 89]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.10.15-12.06.05:246][ 89]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.10.15-12.06.05:246][ 89]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.10.15-12.06.05:246][ 89]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.10.15-12.06.05:246][ 89]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.10.15-12.06.05:246][ 89]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.10.15-12.06.05:246][ 89]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.10.15-12.06.05:246][ 89]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.10.15-12.06.05:246][ 89]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.10.15-12.06.05:246][ 89]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.10.15-12.06.05:246][ 89]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.10.15-12.06.05:246][ 89]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.10.15-12.06.05:246][ 89]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.10.15-12.06.05:246][ 89]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.10.15-12.06.05:246][ 89]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.10.15-12.06.05:246][ 89]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.10.15-12.06.05:246][ 89]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.10.15-12.06.05:246][ 89]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.10.15-12.06.05:246][ 89]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.10.15-12.06.05:246][ 89]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.10.15-12.06.05:246][ 89]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.10.15-12.06.05:246][ 89]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.10.15-12.06.05:246][ 89]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.10.15-12.06.05:246][ 89]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.10.15-12.06.05:248][ 89]TextureStreamingBuild: Display: Compiling optional shaders took 1.090 seconds.
+[2019.10.15-12.06.05:293][ 89]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.10.15-12.06.05:330][ 90]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.10.15-12.06.08:622][252]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.10.15-12.06.08:622][252]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2019.10.15-12.06.08:623][252]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.10.15-12.06.08:623][252]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.10.15-12.06.08:623][252]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.15-12.06.09:054][286]LogMaterialEditor: Saving and Compiling material BasicShapeMaterial
+[2019.10.15-12.06.09:073][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" SILENT=true
+[2019.10.15-12.06.09:096][286]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/BasicShapeMaterial290C24AA4BFD5AF290AFD6B0C5C5BDA8.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.06.09:096][286]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset', retrying in .5s...
+[2019.10.15-12.06.09:597][286]LogFileManager: Error: Error deleting file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'.
+[2019.10.15-12.06.09:597][286]LogSavePackage: Error: Error saving '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.06.19:751][286]LogSlate: Window 'Message' being destroyed
+[2019.10.15-12.06.19:758][286]EditorErrors: New page: Save Output
+[2019.10.15-12.06.19:758][286]EditorErrors: Warning: Error saving '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.06.48:958][681]LogSlate: Window 'Message Log' being destroyed
+[2019.10.15-12.06.48:970][681]LogSlate: Window 'Message Log' being destroyed
+[2019.10.15-12.06.50:378][784]LogMaterialEditor: Saving and Compiling material BasicShapeMaterial
+[2019.10.15-12.06.50:389][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" SILENT=true
+[2019.10.15-12.06.50:425][784]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/BasicShapeMaterial095EE5C443EBCC9894F6FA8011B513A4.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.06.50:426][784]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset', retrying in .5s...
+[2019.10.15-12.06.50:927][784]LogFileManager: Error: Error deleting file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'.
+[2019.10.15-12.06.50:927][784]LogSavePackage: Error: Error saving '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.07.30:167][784]LogSlate: Window 'Message' being destroyed
+[2019.10.15-12.07.30:171][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" SILENT=true
+[2019.10.15-12.07.30:188][784]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/BasicShapeMaterial5EE888F746E8730622CD68AF19EDE28F.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.07.30:188][784]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset', retrying in .5s...
+[2019.10.15-12.07.30:688][784]LogFileManager: Error: Error deleting file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'.
+[2019.10.15-12.07.30:688][784]LogSavePackage: Error: Error saving '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.07.31:354][784]LogSlate: Window 'Message' being destroyed
+[2019.10.15-12.07.31:358][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" SILENT=true
+[2019.10.15-12.07.31:377][784]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/BasicShapeMaterial8B36C709469ABE9A865DC0B40204DC84.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.07.31:377][784]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset', retrying in .5s...
+[2019.10.15-12.07.31:878][784]LogFileManager: Error: Error deleting file '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'.
+[2019.10.15-12.07.31:878][784]LogSavePackage: Error: Error saving '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.08.33:859][784]LogSlate: Window 'Message' being destroyed
+[2019.10.15-12.08.33:867][784]EditorErrors: New page: Save Output
+[2019.10.15-12.08.33:867][784]EditorErrors: Warning: Error saving '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.08.33:867][784]EditorErrors: Warning: Error saving '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.08.33:867][784]EditorErrors: Warning: Error saving '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.08.33:900][785]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.15-12.08.35:631][911]LogSlate: Window 'Message Log' being destroyed
+[2019.10.15-12.08.35:635][911]LogSlate: Window 'Message Log' being destroyed
+[2019.10.15-12.08.51:168][240]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (17.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.15-12.08.54:870][525]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.15-12.08.58:576][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-12.08.58:643][811]BlueprintLog: New page: Compile Enemy_AI_Pawn
+[2019.10.15-12.08.59:413][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Blueprints/Enemy_AI_Pawn" FILE="F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Blueprints/Enemy_AI_Pawn.uasset" SILENT=true
+[2019.10.15-12.08.59:505][842]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/Enemy_AI_PawnAC368102406E276B2E76B29A77B9B631.tmp' to 'F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Blueprints/Enemy_AI_Pawn.uasset'
+[2019.10.15-12.09.12:325][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-12.09.17:075][  4]LogEditorViewport: Clicking on Actor (LMB): TwinStickPawn_C (TwinStickPawn)
+[2019.10.15-12.09.19:285][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-12.09.22:121][335]LogEditorViewport: Clicking on Actor (LMB): Enemy_AI_Pawn_C (Enemy_AI_Pawn)
+[2019.10.15-12.09.26:615][617]Cmd: DELETE
+[2019.10.15-12.09.26:615][617]Cmd: ACTOR DELETE
+[2019.10.15-12.09.26:619][617]LogEditorActor: Deleted Actor: Enemy_AI_Pawn_C
+[2019.10.15-12.09.26:657][617]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2019.10.15-12.09.27:773][706]LogEditorViewport: Clicking on Actor (LMB): Enemy_AI_Pawn_C (Enemy_AI_Pawn2)
+[2019.10.15-12.09.28:736][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-12.09.40:030][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-12.09.52:895][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Maps/MainMAp" FILE="F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Maps/MainMAp.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.15-12.09.53:240][408]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/MainMAp8A3D494642C57749F7777893B21702B1.tmp' to 'F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Maps/MainMAp.umap'
+[2019.10.15-12.09.53:374][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/Maps/MainMAp_BuiltData" FILE="F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Maps/MainMAp_BuiltData.uasset" SILENT=true
+[2019.10.15-12.09.53:573][408]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/MainMAp_BuiltData5854929D4946CAEA73A172A8A0E39E00.tmp' to 'F:/University/Year 2/Games Development/NeonGlider/Content/TwinStickBP/Maps/MainMAp_BuiltData.uasset'
+[2019.10.15-12.09.54:967][479]LogTemp: Repeating last play command: Standalone Game
+[2019.10.15-12.09.57:349][479]LogSlate: Window 'Save Content' being destroyed
+[2019.10.15-12.09.57:364][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" SILENT=true
+[2019.10.15-12.09.57:379][479]LogSavePackage: Moving 'F:/University/Year 2/Games Development/NeonGlider/Saved/BasicShapeMaterialBA0FF94D4455D71E12E443899ECBF545.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2019.10.15-12.10.33:844][118]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.10.15-12.10.51:513][383]BlueprintLog: New page: Compile TwinStickPawn
+[2019.10.15-12.10.53:111][465]LogTemp: Repeating last play command: Standalone Game
+[2019.10.15-12.10.54:498][465]LogSlate: Window 'Save Content' being destroyed
+[2019.10.15-12.10.54:504][465]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2019.10.15-12.10.54:504][465]PIE: Warning: PIE failed because map save was canceled
+[2019.10.15-12.10.56:925][619]LogSlate: Window 'Message Log' being destroyed
+[2019.10.15-12.10.56:929][619]LogSlate: Window 'Message Log' being destroyed
+[2019.10.15-12.10.58:993][762]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-12.10.58:993][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.15-12.10.58:993][762]PIE: New page: PIE session: MainMAp (15 Oct 2019 14:10:58)
+[2019.10.15-12.10.58:993][762]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp
+[2019.10.15-12.10.58:998][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004579s)
+[2019.10.15-12.10.58:998][762]LogAIModule: Creating AISystem for world MainMap
+[2019.10.15-12.10.58:999][762]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2019.10.15-12.10.58:999][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/MainMAp.MainMap to /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp.MainMap (0.005354s)
+[2019.10.15-12.10.59:043][762]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.15-12.10.59:065][762]LogInit: FAudioDevice initialized.
+[2019.10.15-12.10.59:098][762]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.10.15-12.10.59:102][762]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp.MainMap up for play (max tick rate 0) at 2019.10.15-13.10.59
+[2019.10.15-12.10.59:102][762]LogWorld: Bringing up level for play took: 0.003281
+[2019.10.15-12.10.59:117][762]PIE: Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp 0.956
+[2019.10.15-12.10.59:117][762]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-12.11.07:676][504]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-12.11.07:676][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.15-12.11.07:732][504]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.15-12.11.07:733][504]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-12.11.07:783][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.15-12.11.07:882][505]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.10.15-12.11.09:238][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-12.11.18:168][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.15-12.11.18:265][321]BlueprintLog: New page: Compile Enemy_AI_Pawn
+[2019.10.15-12.11.19:885][415]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.15-12.11.19:915][415]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-12.11.19:915][415]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.15-12.11.19:915][415]PIE: New page: PIE session: MainMAp (15 Oct 2019 14:11:19)
+[2019.10.15-12.11.19:916][415]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp
+[2019.10.15-12.11.19:920][415]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004860s)
+[2019.10.15-12.11.19:921][415]LogAIModule: Creating AISystem for world MainMap
+[2019.10.15-12.11.19:921][415]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2019.10.15-12.11.19:921][415]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/MainMAp.MainMap to /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp.MainMap (0.005556s)
+[2019.10.15-12.11.19:974][415]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.15-12.11.19:998][415]LogInit: FAudioDevice initialized.
+[2019.10.15-12.11.20:004][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.15-12.11.20:040][415]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.10.15-12.11.20:041][415]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp.MainMap up for play (max tick rate 0) at 2019.10.15-13.11.20
+[2019.10.15-12.11.20:042][415]LogWorld: Bringing up level for play took: 0.001744
+[2019.10.15-12.11.20:061][415]PIE: Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp -0.098
+[2019.10.15-12.11.20:061][415]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-12.11.20:095][415]LogRenderer: Reallocating scene render targets to support 1292x1020 Format 10 NumSamples 1 (Frame:1).
+[2019.10.15-12.11.26:074][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.15-12.11.26:074][836]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-12.11.26:091][836]LogSlate: Window 'NeonGlider Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.15-12.11.26:141][836]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.15-12.11.26:141][836]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-12.11.26:359][837]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.10.15-12.11.29:431][ 25]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.15-12.11.29:457][ 25]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-12.11.29:457][ 25]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.15-12.11.29:457][ 25]PIE: New page: PIE session: MainMAp (15 Oct 2019 14:11:29)
+[2019.10.15-12.11.29:458][ 25]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp
+[2019.10.15-12.11.29:463][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005012s)
+[2019.10.15-12.11.29:463][ 25]LogAIModule: Creating AISystem for world MainMap
+[2019.10.15-12.11.29:463][ 25]LogPlayLevel: PIE: World Init took: (0.000556s)
+[2019.10.15-12.11.29:463][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/MainMAp.MainMap to /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp.MainMap (0.005692s)
+[2019.10.15-12.11.29:519][ 25]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.15-12.11.29:548][ 25]LogInit: FAudioDevice initialized.
+[2019.10.15-12.11.29:554][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.15-12.11.29:594][ 25]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.10.15-12.11.29:595][ 25]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp.MainMap up for play (max tick rate 0) at 2019.10.15-13.11.29
+[2019.10.15-12.11.29:596][ 25]LogWorld: Bringing up level for play took: 0.001419
+[2019.10.15-12.11.29:622][ 25]PIE: Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp -0.538
+[2019.10.15-12.11.29:623][ 25]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-12.11.45:073][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.15-12.11.45:074][ 63]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-12.11.45:109][ 63]LogSlate: Window 'NeonGlider Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.15-12.11.45:182][ 63]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.15-12.11.45:182][ 63]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-12.11.45:388][ 64]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.10.15-12.11.54:939][817]BlueprintLog: New page: Compile TwinStickPawn
+[2019.10.15-12.11.56:572][911]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.15-12.11.56:616][911]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-12.11.56:616][911]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.15-12.11.56:616][911]PIE: New page: PIE session: MainMAp (15 Oct 2019 14:11:56)
+[2019.10.15-12.11.56:617][911]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp
+[2019.10.15-12.11.56:622][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005116s)
+[2019.10.15-12.11.56:622][911]LogAIModule: Creating AISystem for world MainMap
+[2019.10.15-12.11.56:622][911]LogPlayLevel: PIE: World Init took: (0.000556s)
+[2019.10.15-12.11.56:622][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/MainMAp.MainMap to /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp.MainMap (0.005802s)
+[2019.10.15-12.11.56:675][911]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.15-12.11.56:703][911]LogInit: FAudioDevice initialized.
+[2019.10.15-12.11.56:708][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.15-12.11.56:743][911]LogLoad: Game class is 'TwinStickGameMode_C'
+[2019.10.15-12.11.56:745][911]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp.MainMap up for play (max tick rate 0) at 2019.10.15-13.11.56
+[2019.10.15-12.11.56:745][911]LogWorld: Bringing up level for play took: 0.001566
+[2019.10.15-12.11.56:761][911]PIE: Play in editor start time for /Game/TwinStickBP/Maps/UEDPIE_0_MainMAp 0.601
+[2019.10.15-12.11.56:761][911]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-12.12.10:779][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.15-12.12.10:779][980]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-12.12.10:810][980]LogSlate: Window 'NeonGlider Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.15-12.12.10:857][980]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.15-12.12.10:858][980]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/TwinStickBP/Maps/MainMAp.MainMap_C' with ClassGeneratedBy '/Game/TwinStickBP/Maps/MainMAp.MainMap:PersistentLevel.MainMap'
+[2019.10.15-12.12.11:032][981]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.10.15-12.12.28:554][193]BlueprintLog: New page: Compile TwinStickPawn
+[2019.10.15-12.13.54:895][401]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.10.15-12.14.22:154][440]LogSlate: Took 0.005094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.10.15-12.14.53:213][807]LogEditorTransaction: Undo Move Node
+[2019.10.15-12.14.53:881][874]LogEditorTransaction: Undo Move Node
+[2019.10.15-12.15.17:296][466]LogEditorTransaction: Undo Add Node
+[2019.10.15-12.16.56:419][ 46]LogUObjectBase: Warning: Object is not registered
+[2019.10.15-12.16.56:420][ 46]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.10.15-12.16.57:377][ 46]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.957 s
+[2019.10.15-12.16.57:377][ 46]LogOutputDevice: Error: === Handled ensure: ===
+[2019.10.15-12.16.57:377][ 46]LogOutputDevice: Error: 
+[2019.10.15-12.16.57:377][ 46]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2019.10.15-12.16.57:377][ 46]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.10.15-12.16.57:377][ 46]LogOutputDevice: Error: Stack: 
+[2019.10.15-12.16.57:377][ 46]LogOutputDevice: Error: [Callstack] 0x00007ffb8ae78304 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.15-12.16.57:378][ 46]LogOutputDevice: Error: [Callstack] 0x00007ffb8ae881ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.10.15-12.16.57:378][ 46]LogOutputDevice: Error: [Callstack] 0x00007ffb8929bcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.10.15-12.16.57:378][ 46]LogOutputDevice: Error: [Callstack] 0x00007ffb8806769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.10.15-12.16.57:378][ 46]LogOutputDevice: Error: [Callstack] 0x00007ffb88020917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.10.15-12.16.57:378][ 46]LogOutputDevice: Error: [Callstack] 0x00007ffb8c1d7c74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.15-12.16.57:378][ 46]LogOutputDevice: Error: [Callstack] 0x00007ffb8c424393 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.15-12.16.57:378][ 46]LogOutputDevice: Error: [Callstack] 0x00007ffb8c232d7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.15-12.16.57:378][ 46]LogOutputDevice: Error: [Callstack] 0x00007ffb8c208a70 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.15-12.16.57:378][ 46]LogOutputDevice: Error: [Callstack] 0x00007ffb8c1fb263 UE4Editor-Slate.dll!UnknownFunction []
+[2019.10.15-12.16.57:378][ 46]LogOutputDevice: Error: [Callstack] 0x00007ffb8c6bdc66 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.15-12.16.57:378][ 46]LogOutputDevice: Error: [Callstack] 0x00007ffb8c6b0de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.15-12.16.57:378][ 46]LogOutputDevice: Error: [Callstack] 0x00007ffb8c6c01eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.15-12.16.57:378][ 46]LogOutputDevice: Error: [Callstack] 0x00007ffb8c6aca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.15-12.16.57:378][ 46]LogOutputDevice: Error: [Callstack] 0x00007ffbe3d2ca66 USER32.dll!UnknownFunction []
+[2019.10.15-12.16.57:378][ 46]LogOutputDevice: Error: [Callstack] 0x00007ffbe3d2c582 USER32.dll!UnknownFunction []
+[2019.10.15-12.16.57:378][ 46]LogOutputDevice: Error: [Callstack] 0x00007ffb8c6c1746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.10.15-12.16.57:378][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff744ba5546 UE4Editor.exe!UnknownFunction []
+[2019.10.15-12.16.57:378][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff744bb596c UE4Editor.exe!UnknownFunction []
+[2019.10.15-12.16.57:378][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff744bb59ea UE4Editor.exe!UnknownFunction []
+[2019.10.15-12.16.57:378][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff744bc48da UE4Editor.exe!UnknownFunction []
+[2019.10.15-12.16.57:378][ 46]LogOutputDevice: Error: [Callstack] 0x00007ff744bc659a UE4Editor.exe!UnknownFunction []
+[2019.10.15-12.16.57:378][ 46]LogOutputDevice: Error: [Callstack] 0x00007ffbe6387974 KERNEL32.DLL!UnknownFunction []
+[2019.10.15-12.16.57:378][ 46]LogOutputDevice: Error: [Callstack] 0x00007ffbe650a271 ntdll.dll!UnknownFunction []
+[2019.10.15-12.16.57:378][ 46]LogOutputDevice: Error: 
+[2019.10.15-12.16.57:379][ 46]LogStats:                SubmitErrorReport -  0.000 s
